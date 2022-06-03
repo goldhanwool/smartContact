@@ -1,5 +1,5 @@
 const contractAddress = "0x70F9e453FC6CeDf2A3505D8bf4d2433123232D9B"; //Replace with your own contract address
-const chain = 'ethereumMainnet'; // rinkeby or polygon
+const chain = 'ethereum'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the NFTTART PROJECT!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
